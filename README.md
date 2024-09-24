@@ -1,6 +1,6 @@
 # Olá, eu chamo-me Lucas Souza. :smile:
 
-## Sou um desenvolvedor em processo de aprendizagem, porém espero adquirir bastante conhecimento ao longo da minha vida. Além do mais, sou um admirador da matemática.
+Sou um desenvolvedor em processo de aprendizagem, porém espero adquirir bastante conhecimento ao longo da minha vida. Além do mais, sou um admirador da matemática.
 
 ---
 
@@ -14,8 +14,6 @@
 
 </div>
 
-#
-
 ---
 
 # Estas são as ferramentas que utilizo
@@ -26,16 +24,12 @@
 - ![Logo do Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 - ![Logo do GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=black)
 
-#
-
 ---
 
 # Estes são os sistemas operativos que estou familiarizado
 
 - ![Logo do Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=black)
 - ![Palavra 'Windows'](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=black)
-
-#
 
 ---
 
